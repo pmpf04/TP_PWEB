@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.backend.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|solutionrelative:tp.backend.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.backend.data\\entidades\\encomendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|solutionrelative:tp.backend.data\\entidades\\encomendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.backend.data\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|solutionrelative:tp.backend.data\\entidades\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.backend.data\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|solutionrelative:tp.backend.data\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.backend.data\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|solutionrelative:tp.backend.data\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.backend.data\\tp.backend.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|solutionrelative:tp.backend.data\\tp.backend.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03256041-7327-4668-8DCF-82D7F7D30A5F}|TP.Shared.RCL\\TP.Shared.RCL.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.shared.rcl\\tp.shared.rcl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03256041-7327-4668-8DCF-82D7F7D30A5F}|TP.Shared.RCL\\TP.Shared.RCL.csproj|solutionrelative:tp.shared.rcl\\tp.shared.rcl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB06813-6EE0-4161-945A-D9AF6F70B37E}|TP.Backend.API\\TP.Backend.API.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.backend.api\\tp.backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBB06813-6EE0-4161-945A-D9AF6F70B37E}|TP.Backend.API\\TP.Backend.API.csproj|solutionrelative:tp.backend.api\\tp.backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.backend.data\\tp.backend.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B1999740-66A8-451B-B6A9-64DC9D1E39B9}|TP.Backend.Data\\TP.Backend.Data.csproj|solutionrelative:tp.backend.data\\tp.backend.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D88DF6B-9932-4962-A338-BDC144A533C4}|TP.FrontEndMobile\\TP.FrontEndMobile.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.frontendmobile\\tp.frontendmobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D88DF6B-9932-4962-A338-BDC144A533C4}|TP.FrontEndMobile\\TP.FrontEndMobile.csproj|solutionrelative:tp.frontendmobile\\tp.frontendmobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D88DF6B-9932-4962-A338-BDC144A533C4}|TP.FrontEndMobile\\TP.FrontEndMobile.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.frontendmobile\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D88DF6B-9932-4962-A338-BDC144A533C4}|TP.FrontEndMobile\\TP.FrontEndMobile.csproj|solutionrelative:tp.frontendmobile\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03256041-7327-4668-8DCF-82D7F7D30A5F}|TP.Shared.RCL\\TP.Shared.RCL.csproj|c:\\users\\pedro\\desktop\\pweb\\tp\\tp\\tp.shared.rcl\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03256041-7327-4668-8DCF-82D7F7D30A5F}|TP.Shared.RCL\\TP.Shared.RCL.csproj|solutionrelative:tp.shared.rcl\\areas\\myfeature\\pages\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\Entidades\\Produto.cs",
+              "RelativeDocumentMoniker": "TP.Backend.Data\\Entidades\\Produto.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\Entidades\\Produto.cs",
+              "RelativeToolTip": "TP.Backend.Data\\Entidades\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:23:34.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "TP.Backend.Data\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "TP.Backend.Data\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:22:55.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Encomendas.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\Entidades\\Encomendas.cs",
+              "RelativeDocumentMoniker": "TP.Backend.Data\\Entidades\\Encomendas.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\Entidades\\Encomendas.cs",
+              "RelativeToolTip": "TP.Backend.Data\\Entidades\\Encomendas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:26:57.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TP.Backend.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TP.Backend.Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:29:31.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\Entidades\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TP.Backend.Data\\Entidades\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\Entidades\\ApplicationUser.cs",
+              "RelativeToolTip": "TP.Backend.Data\\Entidades\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:20:52.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TP.Backend.Data",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\TP.Backend.Data.csproj",
+              "RelativeDocumentMoniker": "TP.Backend.Data\\TP.Backend.Data.csproj",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\TP.Backend.Data.csproj",
+              "RelativeToolTip": "TP.Backend.Data\\TP.Backend.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T14:41:04.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TP.Shared.RCL",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Shared.RCL\\TP.Shared.RCL.csproj",
+              "RelativeDocumentMoniker": "TP.Shared.RCL\\TP.Shared.RCL.csproj",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Shared.RCL\\TP.Shared.RCL.csproj",
+              "RelativeToolTip": "TP.Shared.RCL\\TP.Shared.RCL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T14:47:54.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TP.Backend.API",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.API\\TP.Backend.API.csproj",
+              "RelativeDocumentMoniker": "TP.Backend.API\\TP.Backend.API.csproj",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.API\\TP.Backend.API.csproj",
+              "RelativeToolTip": "TP.Backend.API\\TP.Backend.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T14:49:47.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TP.FrontEndMobile",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.FrontEndMobile\\TP.FrontEndMobile.csproj",
+              "RelativeDocumentMoniker": "TP.FrontEndMobile\\TP.FrontEndMobile.csproj",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.FrontEndMobile\\TP.FrontEndMobile.csproj",
+              "RelativeToolTip": "TP.FrontEndMobile\\TP.FrontEndMobile.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T14:45:07.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TP.Backend.Data",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\TP.Backend.Data.csproj",
+              "RelativeDocumentMoniker": "TP.Backend.Data\\TP.Backend.Data.csproj",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Backend.Data\\TP.Backend.Data.csproj",
+              "RelativeToolTip": "TP.Backend.Data\\TP.Backend.Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-23T14:41:21.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.FrontEndMobile\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TP.FrontEndMobile\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.FrontEndMobile\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "TP.FrontEndMobile\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:29:02.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Shared.RCL\\Areas\\MyFeature\\Pages\\Page1.cshtml",
+              "RelativeDocumentMoniker": "TP.Shared.RCL\\Areas\\MyFeature\\Pages\\Page1.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Pweb\\TP\\TP\\TP.Shared.RCL\\Areas\\MyFeature\\Pages\\Page1.cshtml",
+              "RelativeToolTip": "TP.Shared.RCL\\Areas\\MyFeature\\Pages\\Page1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:13:32.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
